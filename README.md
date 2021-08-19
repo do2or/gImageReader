@@ -33,7 +33,7 @@ Installation:
 
 Compilation:
 --------------
-The steps for compiling gImageReader from source are documented in the [wiki](https://github.com/manisandro/gImageReader/wiki/Compiling-gImageReader).
+The steps for compiling gImageReader from source are documented in the [wiki](https://github.com/do2or/gImageReader/wiki/Compiling-gImageReader).
 
 Support:
 ----------
